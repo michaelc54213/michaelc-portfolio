@@ -8,3 +8,4 @@ public/web.config
 database/
 tests/
 server.php
+config/mail.php
