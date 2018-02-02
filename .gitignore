@@ -7,3 +7,4 @@ storage/
 public/web.config
 database/
 tests/
+server.php
