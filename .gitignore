@@ -6,3 +6,5 @@ vendor/
 storage/
 public/web.config
 database/
+test/
+
