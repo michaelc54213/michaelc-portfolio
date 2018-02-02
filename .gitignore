@@ -2,3 +2,4 @@
 *.swp
 *.git
 node_modules/
+vendor/
