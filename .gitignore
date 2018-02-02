@@ -9,3 +9,4 @@ database/
 tests/
 server.php
 config/mail.php
+config/
